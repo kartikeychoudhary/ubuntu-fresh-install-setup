@@ -51,3 +51,4 @@ flutter upgrade
 sudo apt-get install -y curl
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 
+# add eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv) to ~/.profile or ~/.bashrc
